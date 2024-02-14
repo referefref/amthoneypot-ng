@@ -11,7 +11,3 @@ If successfully exploited, content pulled from a HP machine is served to the att
 ```# ./amthoneypot [logfile.txt]```
 ### Persistent Execution -
 ```# nohup ./amthoneypot logfile.txt &```
-
-### TODO
-- [ ] Add templating to make content dynamic / random
-- [ ] Add error checking
